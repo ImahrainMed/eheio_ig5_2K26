@@ -8,7 +8,7 @@
 
 ### Clone the project from gitlab 
 ```
-git clone https://github.com/ImahrainMed/eheio-ig5
+git clone https://github.com/ImahrainMed/eheio_ig5_2K26.git
 ```
 
 ### Install The project
