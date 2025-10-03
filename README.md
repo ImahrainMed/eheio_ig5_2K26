@@ -4,9 +4,9 @@
 
 ## Getting started
 
-## Interview Management System Project 
+## IG5 Final Year Project 
 
-### Clone the project from gitlab 
+### Clone the project from Github 
 ```
 git clone https://github.com/ImahrainMed/eheio_ig5_2K26.git
 ```
